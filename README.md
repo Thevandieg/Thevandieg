@@ -1,1 +1,7 @@
-[![An image of @Thevandieg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ivanmendozamendoza)](https://holopin.io/@ivanmendozamendoza)
+Just building fast, clean systems and figuring out how things really work. The goal is simple: ship software that actually feels better.
+
+## Projects
+- [CLI-Postx](https://cli-postx.com)
+
+## Other
+- Exploring bigger stuff
