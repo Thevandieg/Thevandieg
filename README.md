@@ -3,5 +3,5 @@ Just building fast, clean systems and figuring out how things really work. The g
 ## Projects
 - [CLI-Postx](https://cli-postx.com)
 
-## Other
-- Exploring bigger stuff
+### Other
+- Exploring 
